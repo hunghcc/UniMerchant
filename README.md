@@ -1,4 +1,4 @@
-# uni_express
+# uni_merchant
 
 A new Flutter application.
 
